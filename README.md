@@ -4,7 +4,7 @@ it is a simple todo application usint react + vite and tailwind css.
 
 ## setup
 1- clone the repository
-    git clone[repo link]
+    git clone https://github.com/Ashutoshupadhyay23/todoAssesment
 
 2- install dependencies
     npm install
